@@ -17,7 +17,7 @@ Jeu Pierre-Feuille-Ciseaux jouable directement dans le navigateur, contre l'ordi
 - Affichage du résultat de chaque manche
 - Comptage des victoires, égalités et défaites
 - Réinitialisation du score
-- Accessible au clavier (navigation et `aria-live` pour annoncer les résultats)
+- Accessible au clavier
 
 ## Auteur
 
