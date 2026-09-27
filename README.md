@@ -21,4 +21,4 @@ Jeu Pierre-Feuille-Ciseaux jouable directement dans le navigateur, contre l'ordi
 
 ## Auteur
 
-Nolan
+Nolan Poirier
